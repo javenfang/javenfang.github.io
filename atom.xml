@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Javen Blog</title>
-  
+  <title>老码农</title>
+  <subtitle>Not only coding</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-03-23T04:13:44.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://javenfang.me/"/>
+  <updated>2016-03-25T12:49:38.000Z</updated>
+  <id>http://javenfang.me/</id>
   
   <author>
     <name>Javen Fang</name>
@@ -16,9 +16,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>新的开始</title>
+    <link href="http://javenfang.me/2016/03/25/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://javenfang.me/2016/03/25/新的开始/</id>
+    <published>2016-03-25T12:45:50.000Z</published>
+    <updated>2016-03-25T12:49:38.000Z</updated>
+    
+    <content type="html">&lt;p&gt;尝试使用 hexo。&lt;/p&gt;
+&lt;p&gt;这个东西还是不少好处，其中一个是：markdown。&lt;/p&gt;
+&lt;p&gt;我现在几乎所有的写作都是 Markdown 了，关键的好处是易于保存。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;two&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;new-place&quot;&gt;&lt;a href=&quot;#new-place&quot; class=&quot;headerlink&quot; title=&quot;new place&quot;&gt;&lt;/a&gt;new place&lt;/h2&gt;&lt;h4 id=&quot;the-fourth-header&quot;&gt;&lt;a href=&quot;#the-fourth-header&quot; class=&quot;headerlink&quot; title=&quot;the fourth header&quot;&gt;&lt;/a&gt;the fourth header&lt;/h4&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;尝试使用 hexo。&lt;/p&gt;
+&lt;p&gt;这个东西还是不少好处，其中一个是：markdown。&lt;/p&gt;
+&lt;p&gt;我现在几乎所有的写作都是 Markdown 了，关键的好处是易于保存。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;two&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/03/23/hello-world/"/>
-    <id>http://yoursite.com/2016/03/23/hello-world/</id>
+    <link href="http://javenfang.me/2016/03/23/hello-world/"/>
+    <id>http://javenfang.me/2016/03/23/hello-world/</id>
     <published>2016-03-23T04:13:44.000Z</published>
     <updated>2016-03-23T04:13:44.000Z</updated>
     
