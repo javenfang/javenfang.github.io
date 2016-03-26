@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://javenfang.me/"/>
-  <updated>2016-03-26T02:04:59.000Z</updated>
+  <updated>2016-03-26T02:22:05.000Z</updated>
   <id>http://javenfang.me/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://javenfang.me/2016/first_post/"/>
     <id>http://javenfang.me/2016/first_post/</id>
     <published>2016-03-25T12:45:50.000Z</published>
-    <updated>2016-03-26T02:04:59.000Z</updated>
+    <updated>2016-03-26T02:22:05.000Z</updated>
     
     <content type="html">&lt;p&gt;尝试使用 hexo。&lt;/p&gt;
 &lt;p&gt;这个东西看起来不少好处：&lt;/p&gt;
@@ -44,7 +44,9 @@
     </summary>
     
     
-      <category term="new, code" scheme="http://javenfang.me/tags/new-code/"/>
+      <category term="new" scheme="http://javenfang.me/tags/new/"/>
+    
+      <category term="coding" scheme="http://javenfang.me/tags/coding/"/>
     
   </entry>
   
